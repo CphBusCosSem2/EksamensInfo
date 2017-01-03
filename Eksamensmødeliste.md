@@ -23,7 +23,7 @@ Tid | |
 ***
 <div style="page-break-after: always;"></div>
 
-## Tirsdag 
+## Tirsdag 10. januar
 
 Tid | |
 ---|---
@@ -45,7 +45,7 @@ Tid | |
 ---
 <div style="page-break-after: always;"></div>
 
-## Onsdag(10)
+## Onsdag 11. januar
 Tid | |
 ---|---
 8:30 | **Gruppe 5 præsentation**
