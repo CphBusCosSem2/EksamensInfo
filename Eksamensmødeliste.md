@@ -37,10 +37,8 @@ Tid | |
 12:00| Michael Skjaldgaard
 12:30 | **Frokost**
 13:00 | **Gruppe 3 præsentation**
-13:30| Rune Halvor Jensen
-14:00| Troels Lyrn
-14:30| Jonas Schack Nielsen 
-
+13:30| Troels Lyrn
+14:00| Jonas Schack Nielsen
 
 ---
 <div style="page-break-after: always;"></div>
